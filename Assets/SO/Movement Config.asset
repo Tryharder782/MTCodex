@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2113ff0208313184bb8067be4fb68b39, type: 3}
+  m_Name: Movement Config
+  m_EditorClassIdentifier: 
+  walkSpeed: 2.5
+  runSpeed: 5
+  sprintSpeed: 7.5
+  acceleration: 20
+  deceleration: 25
+  airControl: 0.5
+  jumpForce: 5.5
+  coyoteTime: 0.12
+  jumpBuffer: 0.12
+  jumpCooldown: 0.05
+  gravityMultiplier: 1.6
+  downforce: 10
+  maxSlopeAngle: 50
+  stepHeight: 0.35
+  stepCheckDistance: 0.4
+  highFriction: {fileID: 0}
+  lowFriction: {fileID: 13400000, guid: 2005c05b228fad74e993621a5478e770, type: 2}
+  paramSpeed: Speed
+  paramIsGrounded: IsGrounded
+  paramIsSprinting: IsSprinting
+  paramIsDashing: IsDashing
+  paramJumpTrigger: Jump
+  paramLandTrigger: Land

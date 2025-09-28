@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f85c1017adbcf4445badd6fe1e01996b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - move: {fileID: 8068340308257252634, guid: 846801888c06f534d93256ad4d9d7b25, type: 3}
+  - look: {fileID: 70068118206026385, guid: 846801888c06f534d93256ad4d9d7b25, type: 3}
+  - jump: {fileID: -3974655411769673522, guid: 846801888c06f534d93256ad4d9d7b25, type: 3}
+  - sprint: {fileID: -6308824777473020412, guid: 846801888c06f534d93256ad4d9d7b25, type: 3}
+  - dash: {fileID: 3403884142700931090, guid: 846801888c06f534d93256ad4d9d7b25, type: 3}
+  - walkToggle: {fileID: 6974258154488078288, guid: 846801888c06f534d93256ad4d9d7b25, type: 3}
+  - lockOn: {fileID: 9113106268259371632, guid: 846801888c06f534d93256ad4d9d7b25, type: 3}
+  - glide: {fileID: -3974655411769673522, guid: 846801888c06f534d93256ad4d9d7b25, type: 3}
+  - climb: {fileID: -3974655411769673522, guid: 846801888c06f534d93256ad4d9d7b25, type: 3}
+  - dive: {fileID: -3974655411769673522, guid: 846801888c06f534d93256ad4d9d7b25, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
